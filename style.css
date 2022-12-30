@@ -1,1 +1,31 @@
-/*# sourceMappingURL=style.css.map */
+* {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.flex {
+  display: flex;
+}
+
+.banner {
+  background: rgb(86, 115, 33);
+}
+.banner .nav {
+  padding: 1rem 10rem 2rem 10rem;
+  justify-content: space-between;
+}
+.banner .nav .middle {
+  gap: 1rem;
+}
+.banner .nav select {
+  height: 20px;
+}
+.banner .nav .right {
+  gap: 1rem;
+}
+.banner .nav .right div .fa-solid {
+  border: 1px solid black;
+  margin-left: -5px;
+  height: 19px;
+  background: #fff;
+}/*# sourceMappingURL=style.css.map */
