@@ -42,4 +42,18 @@ select {
 // navigation menu
 
 .menu {
+  justify-content: space-between;
+  background: rgb(70, 142, 95);
+
+  .logo {
+    .fa-fire {
+      font-size: 2rem;
+    }
+  }
+  .navigation {
+    .list {
+      gap: 8rem;
+      list-style-type: none;
+    }
+  }
 }

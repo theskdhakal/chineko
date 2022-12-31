@@ -29,4 +29,16 @@ select {
   margin-left: -5px;
   height: 19px;
   background: #fff;
+}
+
+.menu {
+  justify-content: space-between;
+  background: rgb(70, 142, 95);
+}
+.menu .logo .fa-fire {
+  font-size: 2rem;
+}
+.menu .navigation .list {
+  gap: 8rem;
+  list-style-type: none;
 }/*# sourceMappingURL=style.css.map */
