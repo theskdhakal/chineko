@@ -9,6 +9,11 @@
   display: flex;
 }
 
+select {
+  height: 20px;
+}
+
+// banner section
 .banner {
   background: rgb(86, 115, 33);
   .nav {
@@ -17,10 +22,6 @@
 
     .middle {
       gap: 1rem;
-    }
-
-    select {
-      height: 20px;
     }
 
     .right {
@@ -36,4 +37,9 @@
       }
     }
   }
+}
+
+// navigation menu
+
+.menu {
 }

@@ -7,6 +7,10 @@
   display: flex;
 }
 
+select {
+  height: 20px;
+}
+
 .banner {
   background: rgb(86, 115, 33);
 }
@@ -16,9 +20,6 @@
 }
 .banner .nav .middle {
   gap: 1rem;
-}
-.banner .nav select {
-  height: 20px;
 }
 .banner .nav .right {
   gap: 1rem;
