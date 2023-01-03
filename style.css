@@ -41,4 +41,11 @@ select {
 .menu .navigation .list {
   gap: 8rem;
   list-style-type: none;
+}
+
+.hero {
+  max-width: 100vw;
+}
+.hero .img {
+  background: url(asset/img.jpg);
 }/*# sourceMappingURL=style.css.map */
